@@ -15,9 +15,11 @@ namespace Notas.API.Domain
         public int Corte1 { get; set; }
         public int Corte2 { get; set; }
         public int Corte3 { get; set; }
+        public string Profesor { get; set; }
+        public string Estudiante { get; set; }
 
 
-        public Profesor Profesores { get; set; }
-        public Guid Id_profesor;
+       // public Profesor Profesores { get; set; }
+     //   public Guid Profesor_id;
     }
 }
