@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6avaiWOOmh+6pJD8hekRgRO+LD4yg+pol3dcfPguRDZOjgroNV9pNgJex4fHGhELUART0eOn9tUODM72CJ7krw==",
+  "dgSpecHash": "OByi87jZEQW8LnU04HwFbbjQPaUX2lPLhoT3+89CvfosOitY4sqb2tzIEkxKbXPB3yg1z57p88NXq0BvbQvNTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Iván Gonzalez\\Desktop\\ProyectoFinal\\Notas.API\\Notas.API\\Notas.API.csproj",
+  "projectFilePath": "C:\\Users\\Iván Gonzalez\\Desktop\\ProyectoFinal\\Back-end-.NET-CORE\\Notas.API\\Notas.API\\Notas.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Iván Gonzalez\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Users\\Iván Gonzalez\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

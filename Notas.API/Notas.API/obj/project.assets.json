@@ -2586,11 +2586,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Iván Gonzalez\\Desktop\\ProyectoFinal\\Notas.API\\Notas.API\\Notas.API.csproj",
+      "projectUniqueName": "C:\\Users\\Iván Gonzalez\\Desktop\\ProyectoFinal\\Back-end-.NET-CORE\\Notas.API\\Notas.API\\Notas.API.csproj",
       "projectName": "Notas.API",
-      "projectPath": "C:\\Users\\Iván Gonzalez\\Desktop\\ProyectoFinal\\Notas.API\\Notas.API\\Notas.API.csproj",
+      "projectPath": "C:\\Users\\Iván Gonzalez\\Desktop\\ProyectoFinal\\Back-end-.NET-CORE\\Notas.API\\Notas.API\\Notas.API.csproj",
       "packagesPath": "C:\\Users\\Iván Gonzalez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Iván Gonzalez\\Desktop\\ProyectoFinal\\Notas.API\\Notas.API\\obj\\",
+      "outputPath": "C:\\Users\\Iván Gonzalez\\Desktop\\ProyectoFinal\\Back-end-.NET-CORE\\Notas.API\\Notas.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Iván Gonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",

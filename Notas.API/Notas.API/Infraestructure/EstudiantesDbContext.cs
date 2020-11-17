@@ -18,6 +18,7 @@ namespace Notas.API.Infraestructure
         public DbSet<Profesor> Profesores { get; set; }
         public DbSet<Materia> Materias { get; set; }
         public DbSet<EstudianteMateria> EstudiantesMaterias { get; set; }
+        public DbSet<NombreMateria> NombreMaterias { get; set; }
 
     }
 }
